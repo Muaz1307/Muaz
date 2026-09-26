@@ -19,30 +19,6 @@ BRAC University Computer Science graduate with practical full-stack development 
 
 ---
 
-### 🚀 Thesis & Featured Projects
-
-**📈 Modeling Global Depression and Anxiety Trajectories Across Pre- and Post-COVID Periods** *(Thesis)*
-Co-developed a hybrid ARIMAX + ML residual-correction model across 144 countries (1990–2021), improving depression forecast RMSE by 11.3% over ARIMAX-only. Validated with Shapiro-Wilk and Wilcoxon signed-rank tests, integrating GDP, urban population, and unemployment as exogenous variables.
-`Python` `Pandas` `NumPy` `Scikit-learn` `Statsmodels` `SciPy` `Matplotlib` `Seaborn`
-
-**📚 [StudyDen](https://github.com/RafyPrappo/StudyDen)** — MERN Website
-Architected the backend (MVC) and frontend across 5 core pages, with a gamification system (points, badges, leaderboard, endorsements) to drive engagement. Implemented geofenced real-time attendance tracking with Barikoi place search and Google Calendar sync.
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt.js` `Multer` `React` `React Router` `Vite` `Tailwind CSS` `Leaflet.js` `Framer Motion` `Barikoi API` `Google Calendar API`
-
-**💱 Multivariate Forecasting of Bangladesh Remittance Inflows**
-Built a joint, multivariate ML-based forecasting pipeline for Bangladesh's remittance, inflation, and exchange rate indicators — modeled together instead of in isolation. Collects and preprocesses monthly macroeconomic data (2010–2026), engineering lag and rolling-window features for the forecasting models.
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `TensorFlow` `Jupyter Notebook` `Matplotlib`
-
-**📰 [Article Aggregator](https://github.com/Muaz1307/article-aggregator)** — Full-Stack MERN News Platform
-Built a full-stack article platform with JWT auth, voting, nested comments, and a content moderation workflow.
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt.js` `CORS` `dotenv` `React` `React Router` `Vite` `Tailwind CSS` `PostCSS` `Axios` `ESLint` `Nodemon`
-
-**💰 [Personal and Group Finance Management Web App](https://github.com/Muaz1307/finance_app)**
-Built a multi-user Flask/MySQL web app unifying expense tracking, category budgeting, and group collaboration, with secure auth via hashed passwords and Flask-Login. Implemented a rule-based advisory engine comparing month-to-date spend against user-defined category limits, plus a group chat feature backed by a JSON API endpoint and client-side polling.
-`Python` `Flask` `Flask-Login` `MySQL` `PyMySQL` `Werkzeug` `Jinja2` `HTML/CSS` `JavaScript`
-
----
-
 ### 🎓 Education & Co-curricular
 
 - **BSc in Computer Science** — BRAC University, Dhaka, Bangladesh (2022 – 2026)
@@ -50,7 +26,11 @@ Built a multi-user Flask/MySQL web app unifying expense tracking, category budge
 
 ---
 
-### 🧑‍💻 Languages
+### 💻 Tech Stack
+
+---
+
+<b> 🧑‍💻 Languages </b>
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -62,8 +42,7 @@ Built a multi-user Flask/MySQL web app unifying expense tracking, category budge
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-### 🧩 Frameworks & Libraries
-
+<b> 🧩 Frameworks & Libraries </b>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
@@ -78,14 +57,13 @@ Built a multi-user Flask/MySQL web app unifying expense tracking, category budge
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
 </p>
 
-### 🗄️ Databases
-
+<b> 🗄️ Databases </b>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 
-### 🛠️ Tools
+<b> 🛠️ Tools </b>
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
